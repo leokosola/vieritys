@@ -1,0 +1,28 @@
+body {
+  overflow-x: hidden;
+  margin: 0;
+}
+
+#sketch-holder {
+  position: sticky;
+  top: 0;
+  left: 0;
+}
+
+.par {
+  position: relative;
+  background: tomato;
+}
+
+footer {
+  margin-top: 50vh;
+  height: 100vh;
+  background: slateblue;
+}
+
+p {
+  font-size: 18px;
+  border: 1px solid black;
+  background-color: white;
+  padding: 10px;
+}
